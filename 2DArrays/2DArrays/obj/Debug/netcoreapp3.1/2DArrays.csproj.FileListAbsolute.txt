@@ -1,0 +1,13 @@
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csprojAssemblyReference.cache
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

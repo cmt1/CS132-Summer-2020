@@ -1,0 +1,12 @@
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\cmtor\source\repos\cmt1\CS132-Summer-2020\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
