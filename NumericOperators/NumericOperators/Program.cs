@@ -18,7 +18,8 @@ namespace NumericOperators
             float divide = num1 / num3; // will divide out varibles and float the integer
             int modulus = num2 % num1; // will calculate variable percentage
 
-            Console.WriteLine("Sum of 3 numbers is: " + sum);
+            //Console will output text plus the numeric operators //
+            Console.WriteLine("Sum of 3 numbers is: " + sum); 
             Console.WriteLine("77 - 20 is: " + subtract);
             Console.WriteLine("20 * 77 is: " + multiply);
             Console.WriteLine("20 / 5.2 is: " + divide);
